@@ -151,3 +151,4 @@ web/dist
 .vscode
 
 bin/air
+.github
